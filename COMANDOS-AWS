@@ -1,4 +1,14 @@
-## COMANDO PARA CRIAÇÃO DE USUARIO
+## COMANDOS AWS
 
 # Comando utilizado para criar um usuario na AWS
-aws create-user --user-name Vinicius
+- aws create-user --user-name Vinicius
+
+
+# Comando utilizado para visualizar todos os possiveis comando de um serviço
+- aws iam help
+
+# Comando utilizado para visualizar todos os possiveis comando de um serviço mais organizado
+- aws iam ?
+
+# Comando utilizado para listar usuarios na aws
+- aws iam list-users
