@@ -1,0 +1,4 @@
+## COMANDO PARA CRIAÇÃO DE USUARIO
+
+# Comando utilizado para criar um usuario na AWS
+aws create-user --user-name Vinicius
